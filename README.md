@@ -7,3 +7,4 @@
   5. [Postgrad_Time_Series_Forecasting](https://github.com/miguelcaldeiraa/Postgrad_Time_Series_Forecasting.git)
   6. [Postgrad_Deep_Learning](https://github.com/miguelcaldeiraa/Postgrad_Deep_Learning.git)
   7. [Postgrad_Generative_AI](https://github.com/miguelcaldeiraa/Postgrad_Generative_AI.git)
+  8. [Postgrad_AI_Deployment_and_Monitoring](https://github.com/miguelcaldeiraa/Postgrad_AI_Deployment_and_Monitoring.git)
