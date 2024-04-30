@@ -5,3 +5,4 @@
   3. [Postgrad_Supervised_Machine_Learning](https://github.com/miguelcaldeiraa/Postgrad_Supervised_Machine_Learning.git)
   4. [Postgrad_Unsupervised_Machine_Learning](https://github.com/miguelcaldeiraa/Postgrad_Unsupervised_Machine_Learning.git)
   5. [Postgrad_Time_Series_Forecasting](https://github.com/miguelcaldeiraa/Postgrad_Time_Series_Forecasting.git)
+  6. [Postgrad_Deep_Learning](https://github.com/miguelcaldeiraa/Postgrad_Deep_Learning.git)
