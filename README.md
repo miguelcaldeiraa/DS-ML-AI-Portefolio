@@ -8,4 +8,7 @@
   6. [Postgrad_Deep_Learning](https://github.com/miguelcaldeiraa/Postgrad_Deep_Learning.git)
   7. [Postgrad_Generative_AI](https://github.com/miguelcaldeiraa/Postgrad_Generative_AI.git)
   8. [Postgrad_AI_Deployment_and_Monitoring](https://github.com/miguelcaldeiraa/Postgrad_AI_Deployment_and_Monitoring.git)
- ## 
+ ## 📈 2. Showcasing a variety of ML & AI algorithms through focused projects
+  - Showcasing proficiency in various machine learning and artificial intelligence algorithms through concise, focused projects, each demonstrating the application of a different algorithm to pre-cleaned datasets.
+    ### 2.1 Supervised Learning with scikit-learn
+     2.1.1 [Classification]()
