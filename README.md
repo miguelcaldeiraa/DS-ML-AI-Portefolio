@@ -10,28 +10,26 @@
   9. [Postgrad_AI_Deployment_and_Monitoring](https://github.com/miguelcaldeiraa/Postgrad_AI_Deployment_and_Monitoring.git)
  # 📊 2. Demonstrating a variety of data science, ML and AI skills through focused projects
 ## 2.1 Python Fundamentals:
-   - [Python Programming]()
-   - [Python Toolbox]()
-   - [Importing & Cleaning Data with Python]()
-   - [Data Manipulation with Python]()
+### 2.1.1 [Python Programming]()
+### 2.1.2 [Python Toolbox]()
+### 2.1.3 [Importing & Cleaning Data with Python]()
+### 2.1.4 [Data Manipulation with Python]()
 
 ## 2.2 Data Science Fundamentals:
-   - [Statistics Fundamentals with Python]()
-   - [Data Visualization with Python]()
-   - [Machine Learning Fundamentals with Python]()
-   - [Natural Language Processing in Python]()
-   - [Image Processing with Python]()
-   - [Time Series with Python]()
-   - [Supervised Machine Learning in Python]()
-### 2.3.1 Supervised Learning with scikit-learn
-   3.1.1 [Classification]()
+### 2.2.1 [Statistics with Python]()
+### 2.2.2 [Data Visualization with Python]()
+### 2.2.3 [Machine Learning with Python]()
+### 2.2.4 Supervised Machine Learning in Python
+   - [Supervised Learning with scikit-learn]()
+   - [Classification]()
+### 2.2.5 [Time Series with Python]()
 
-## 2.3. Applied Data Science:
-   - [Developing AI Applications]()
-   - [Developing Large Language Models with Python]()
-   - [Keras Fundamentals]()
+## 2.3
+### 2.3.1 [Natural Language Processing in Python]()
+### 2.3.1 [Image Processing with Python]()
 
-## 2.4. Domain-Specific Applications:
-   - [Finance Fundamentals in Python]()
-   - [Applied Finance in Python]()
-   - [Marketing Analytics with Python]()
+     
+
+
+
+
