@@ -23,7 +23,7 @@
    - [Classification]()
 ### 2.2.4 [Time Series with Python]()
 
-## 2.3
+## 2.3 Advanced Topics:
 ### 2.3.1 [Natural Language Processing in Python]()
 ### 2.3.1 [Image Processing with Python]()
 
