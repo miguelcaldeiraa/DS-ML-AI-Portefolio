@@ -19,10 +19,9 @@
 ### 2.2.1 [Statistics with Python]()
 ### 2.2.2 [Data Visualization with Python]()
 ### 2.2.3 [Machine Learning with Python]()
-### 2.2.4 Supervised Machine Learning in Python
    - [Supervised Learning with scikit-learn]()
    - [Classification]()
-### 2.2.5 [Time Series with Python]()
+### 2.2.4 [Time Series with Python]()
 
 ## 2.3
 ### 2.3.1 [Natural Language Processing in Python]()
