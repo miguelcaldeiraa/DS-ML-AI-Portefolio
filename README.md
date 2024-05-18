@@ -11,24 +11,7 @@
      - Next two projects start on 6/11/2024
   10. [Postgrad_Generative_AI](https://github.com/miguelcaldeiraa/Postgrad_Generative_AI.git)
   11. [Postgrad_AI_Deployment_and_Monitoring](https://github.com/miguelcaldeiraa/Postgrad_AI_Deployment_and_Monitoring.git)
- # 📊 2. UNDER CONSTRUCTION - Demonstrating a variety of data science, ML and AI skills through focused projects
-## 2.1 Python Fundamentals:
-### 2.1.1 [Python Programming]()
-### 2.1.2 [Python Toolbox]()
-### 2.1.3 [Importing & Cleaning Data with Python]()
-### 2.1.4 [Data Manipulation with Python]()
 
-## 2.2 Data Science Fundamentals:
-### 2.2.1 [Statistics with Python]()
-### 2.2.2 [Data Visualization with Python]()
-### 2.2.3 [Machine Learning with Python]()
-   - [Supervised Learning with scikit-learn]()
-   - [Classification]()
-### 2.2.4 [Time Series with Python]()
-
-## 2.3 Advanced Topics:
-### 2.3.1 [Natural Language Processing in Python]()
-### 2.3.1 [Image Processing with Python]()
 
      
 
