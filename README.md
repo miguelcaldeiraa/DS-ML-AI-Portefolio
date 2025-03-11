@@ -1,6 +1,6 @@
 ## 🧑🏼‍💻🎓 Projects I Developed During:
 ### Postgraduate Studies in Applied Artificial Intelligence & Machine Learning
-### At the Institute of Economics and Management - ISEG
+### Institute of Economics and Management - ISEG
  1. Python Introduction - [PyMastery 🐍](https://github.com/miguelcaldeiraa/Postgrad_Python_Introduction.git)
  2. AI Management - AI Project Profitability in Railway Maintenance with IoT Focus
  3. AI Data Modeling - [Analysis and Prediction of Diamond Prices 💎](https://github.com/miguelcaldeiraa/Postgrad_AI_Data_Modeling.git)
