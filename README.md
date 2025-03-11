@@ -1,4 +1,4 @@
-## 🧑🏼‍💻🎓 Projects I developed during my:
+## 🧑🏼‍💻🎓 Projects I developed during:
 ### Postgraduate studies in Applied Artificial Intelligence & Machine Learning
 ### At Institute of Economics and Management  
  1. [Python_Introduction](https://github.com/miguelcaldeiraa/Postgrad_Python_Introduction.git)
