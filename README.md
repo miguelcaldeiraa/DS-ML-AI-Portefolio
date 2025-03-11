@@ -1,6 +1,6 @@
 ### 🧑🏼‍💻🎓 Projects I developed during my:
-#### Postgraduate studies in Applied Artificial Intelligence & Machine Learning
-#### Institute of Economics and Management  
+### Postgraduate studies in Applied Artificial Intelligence & Machine Learning
+### At Institute of Economics and Management  
  1. [Python_Introduction](https://github.com/miguelcaldeiraa/Postgrad_Python_Introduction.git)
  2. [AI_Data_Modeling](https://github.com/miguelcaldeiraa/Postgrad_AI_Data_Modeling.git) - [Analysis_and_Prediction_of_Diamond_Prices 💎]()
  3. [Supervised_Machine_Learning](https://github.com/miguelcaldeiraa/Postgrad_Supervised_Machine_Learning.git)
