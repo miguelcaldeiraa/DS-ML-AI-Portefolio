@@ -10,7 +10,6 @@
  7. Computer Vision - [Object Detection and Distance Analysis: YOLO, OpenCV, and Gradio 🔍](https://github.com/miguelcaldeiraa/Postgrad_Deep_Learning.git)
  8. Generative AI - [Fine-Tuning the LLaMA 3.2 Model for Text Generation and Sentiment Analysis with LoRA 🧠](https://github.com/miguelcaldeiraa/Postgrad_Generative_AI.git)
  9. AI Deployment and Monitoring - [The Fine-Tuned LLaMA 3.2 on AWS 🚀]()
- 10. Final Project - [Anomaly Detection in Online Gambling with DBSCAN and Isolation Forest ♠️♦️]()
 
      
 
